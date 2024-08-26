@@ -16,7 +16,7 @@ The repository is organized into several directories, each focusing on different
   - `currency.py`
   - `hypotenuse.py`
   - `temperature.py`
-- **control_flow/**: Contains scripts demonstrating control flow concepts such as conditionals and loops.
+- **control_flow/**: Contains scripts demonstrating control flow concepts such as conditionals.
   - `coin_flip.py`
   - `grades.py`
   - `magic8.py`
@@ -30,8 +30,20 @@ The repository is organized into several directories, each focusing on different
   - `fizz_buzz.py`
   - `guess.py`
 - **checkpoint/**: Contains the `rock_paper_scissors_lizard_spock.py` game implementation.
-- **lists/**
-- **functions/**
+- **lists/**: Contains scripts demonstrating list operations.
+  - `bucket_list.py`
+  - `grocery.py`
+  - `inventory.py`
+  - `mixtape.py`
+  - `reading_list.py`
+  - `todo.py`
+- **functions/**: Contains scripts demonstrating function definitions and usage.
+  - `calculator.py`
+  - `drive_thru.py`
+  - `dry.py`
+  - `fortune_cookie.py`
+  - `rocket.py`
+  - `stock_analysis.py`
 - **classes_and_objects/**
 - **modules/**
 
@@ -42,6 +54,8 @@ The repository is organized into several directories, each focusing on different
 - **[control_flow/the_cyclone.py](control_flow/the_cyclone.py)**: A script that determines if a user can ride a roller coaster based on their height and credits.
 - **[control_flow/magic8.py](control_flow/magic8.py)**: A Magic 8 Ball simulation that provides random answers to user questions.
 - **[loops/fizz_buzz.py](loops/fizz_buzz.py)**: A classic FizzBuzz implementation using loops and conditionals.
+- **[functions/drive_thru.py](functions/drive_thru.py)**: A script that simulates ordering food at a drive-thru using item numbers.
+- **[lists/reading_list.py](lists/reading_list.py)**: A script that manages a list of tech startup books.
 
 ## Getting Started
 
@@ -50,3 +64,4 @@ To run any of the scripts, simply navigate to the directory containing the scrip
 ```sh
 cd control_flow
 python sorting_hat.py
+```

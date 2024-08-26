@@ -1,0 +1,7 @@
+print("M   M  PPPP ")
+print("MM MM  p   P")
+print("MM MM  P   P")
+print("M M M  PPPP ")
+print("M   M  P    ")
+print("M   M  P    ")
+print("M   M  P    ")

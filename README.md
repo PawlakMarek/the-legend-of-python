@@ -44,7 +44,12 @@ The repository is organized into several directories, each focusing on different
   - `fortune_cookie.py`
   - `rocket.py`
   - `stock_analysis.py`
-- **classes_and_objects/**
+- **classes_and_objects/**: Contains scripts demonstrating object-oriented programming concepts.
+  - `bank_accounts.py`
+  - `bob_burgers.py`
+  - `favorite_cities.py`
+  - `pokedex.py`
+  - `restaurants.py`
 - **modules/**
 
 ## Notable Scripts
@@ -56,6 +61,9 @@ The repository is organized into several directories, each focusing on different
 - **[loops/fizz_buzz.py](loops/fizz_buzz.py)**: A classic FizzBuzz implementation using loops and conditionals.
 - **[functions/drive_thru.py](functions/drive_thru.py)**: A script that simulates ordering food at a drive-thru using item numbers.
 - **[lists/reading_list.py](lists/reading_list.py)**: A script that manages a list of tech startup books.
+- **[classes_and_objects/bank_accounts.py](classes_and_objects/bank_accounts.py)**: A script that defines a `BankAccount` class with methods for deposit, withdrawal, and displaying balance.
+- **[classes_and_objects/favorite_cities.py](classes_and_objects/favorite_cities.py)**: A script that defines a `City` class with attributes for name, country, population, landmarks, nickname, founding year, and mayor.
+- **[classes_and_objects/restaurants.py](classes_and_objects/restaurants.py)**: A script that defines a `Restaurant` class with attributes for name, category, rating, and delivery.
 
 ## Getting Started
 
